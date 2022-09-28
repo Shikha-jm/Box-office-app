@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif; 
+}
+
+.list {
+    display: flex;
+}
+
+.list li {
+    list-style: none;
+    padding-left: 12px;
+}
+
+.list span{
+    cursor: pointer;;
+}
